@@ -1,0 +1,32 @@
+﻿<Morgues>
+  <Morgue>
+    <Type>Adult</Type>
+    <Location>New York</Location>
+    <NumberOfCorpses>10</NumberOfCorpses>
+    <NumberOfCeels>20</NumberOfCeels>
+    <NumberOfCryingWifes>5</NumberOfCryingWifes>
+    <NumberOfCryingHusbands>3</NumberOfCryingHusbands>
+    <MedicForAdults>Dr. Smith</MedicForAdults>
+    <Security>John Doe</Security>
+  </Morgue>
+  <Morgue>
+    <Type>Adult</Type>
+    <Location>Los Angeles</Location>
+    <NumberOfCorpses>15</NumberOfCorpses>
+    <NumberOfCeels>25</NumberOfCeels>
+    <NumberOfCryingWifes>6</NumberOfCryingWifes>
+    <NumberOfCryingHusbands>4</NumberOfCryingHusbands>
+    <MedicForAdults>Dr. Johnson</MedicForAdults>
+    <Security>Jane Doe</Security>
+  </Morgue>
+  <Morgue>
+    <Type>Adult</Type>
+    <Location>Chicago</Location>
+    <NumberOfCorpses>12</NumberOfCorpses>
+    <NumberOfCeels>30</NumberOfCeels>
+    <NumberOfCryingWifes>8</NumberOfCryingWifes>
+    <NumberOfCryingHusbands>5</NumberOfCryingHusbands>
+    <MedicForAdults>Dr. Brown</MedicForAdults>
+    <Security>Mike Smith</Security>
+  </Morgue>
+</Morgues>

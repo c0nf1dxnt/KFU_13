@@ -1,0 +1,32 @@
+<Morgues>
+  <Morgue>
+    <Type>Children</Type>
+    <Location>Chicago</Location>
+    <NumberOfCorpses>7</NumberOfCorpses>
+    <NumberOfCeels>15</NumberOfCeels>
+    <NumberOfCryingMothers>4</NumberOfCryingMothers>
+    <NumberOfCryingDads>2</NumberOfCryingDads>
+    <MedicForChildren>Dr. Williams</MedicForChildren>
+    <Security>Sam Smith</Security>
+  </Morgue>
+  <Morgue>
+    <Type>Children</Type>
+    <Location>Miami</Location>
+    <NumberOfCorpses>10</NumberOfCorpses>
+    <NumberOfCeels>20</NumberOfCeels>
+    <NumberOfCryingMothers>6</NumberOfCryingMothers>
+    <NumberOfCryingDads>3</NumberOfCryingDads>
+    <MedicForChildren>Dr. Brown</MedicForChildren>
+    <Security>Mike Thompson</Security>
+  </Morgue>
+  <Morgue>
+    <Type>Children</Type>
+    <Location>Boston</Location>
+    <NumberOfCorpses>8</NumberOfCorpses>
+    <NumberOfCeels>18</NumberOfCeels>
+    <NumberOfCryingMothers>5</NumberOfCryingMothers>
+    <NumberOfCryingDads>1</NumberOfCryingDads>
+    <MedicForChildren>Dr. Johnson</MedicForChildren>
+    <Security>John Doe</Security>
+  </Morgue>
+</Morgues>

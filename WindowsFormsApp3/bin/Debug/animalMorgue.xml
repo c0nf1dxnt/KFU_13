@@ -1,0 +1,32 @@
+<Morgues>
+  <Morgue>
+    <Type>Animal</Type>
+    <Location>Los Angeles</Location>
+    <NumberOfCorpses>5</NumberOfCorpses>
+    <NumberOfCeels>10</NumberOfCeels>
+    <NumberOfCryingOwners>2</NumberOfCryingOwners>
+    <NumberOfVets>1</NumberOfVets>
+    <Vet>Dr. Johnson</Vet>
+    <Security>Jane Doe</Security>
+  </Morgue>
+  <Morgue>
+    <Type>Animal</Type>
+    <Location>Chicago</Location>
+    <NumberOfCorpses>8</NumberOfCorpses>
+    <NumberOfCeels>12</NumberOfCeels>
+    <NumberOfCryingOwners>3</NumberOfCryingOwners>
+    <NumberOfVets>2</NumberOfVets>
+    <Vet>Dr. Williams</Vet>
+    <Security>Sam Smith</Security>
+  </Morgue>
+  <Morgue>
+    <Type>Animal</Type>
+    <Location>Miami</Location>
+    <NumberOfCorpses>6</NumberOfCorpses>
+    <NumberOfCeels>15</NumberOfCeels>
+    <NumberOfCryingOwners>1</NumberOfCryingOwners>
+    <NumberOfVets>3</NumberOfVets>
+    <Vet>Dr. Thompson</Vet>
+    <Security>Tom Brown</Security>
+  </Morgue>
+</Morgues>
